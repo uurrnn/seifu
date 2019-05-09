@@ -1,0 +1,10 @@
+.game {
+    width: 720px;
+    height: 480px;
+    margin: 50px auto 25px;
+    padding: 5px;
+    border: 1px solid black;
+    box-shadow: 0 0 15px 0 #151515;
+    background: radial-gradient(circle farthest-corner at -5% -10%, #4a626e -25%, #1e2130 125%);
+    position: relative;
+}
